@@ -44,7 +44,7 @@ const Features = () => {
                   src="/images/Payroll.png" 
                   alt="Payroll Interface" 
                   className="feat-main-img"
-                  onError={(e) => {e.target.src = "https://audit365-hr.hareetech.com/dash.png"}} 
+                  onError={(e) => {e.target.src = "https://audit365-hr.HRMS.com/dash.png"}} 
                 />
                 
                 {/* --- FLOATING 3D BADGES (Sabse Upar) --- */}

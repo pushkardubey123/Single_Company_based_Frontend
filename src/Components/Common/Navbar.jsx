@@ -70,7 +70,7 @@ const HomeNavbar = () => {
             <div className="logo-text">
               <span className="logo-icon-box"><span className="logo-dot"></span></span>
               <span className="logo-font text-white">
-                Hareetech<span className="text-primary fw-bold">HR</span>
+                HR<span className="text-primary fw-bold">MS</span>
               </span>
             </div>
           </div>

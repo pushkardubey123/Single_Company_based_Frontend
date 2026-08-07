@@ -249,7 +249,7 @@ const AdminLayout = ({ children }) => {
         <div className="sidebar-header-box">
             <div className="logo-icon-circle"><FiActivity /></div>
             <div className="header-text-box">
-              <h4 className="hey-text m-0">HareetechHR</h4>
+              <h4 className="hey-text m-0">HRMSHR</h4>
               <p className="sub-text m-0">Control Panel</p>
             </div>
         </div>
