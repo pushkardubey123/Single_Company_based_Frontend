@@ -10,7 +10,7 @@ const Home = () => {
   
   // WhatsApp Link Generation
   const phoneNumber = "916394181905"; // Your Number
-  const message = encodeURIComponent("Hi, I want to know more about HRMSHR software.");
+  const message = encodeURIComponent("Hi, I want to know more about HRMS software.");
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
 
   return (

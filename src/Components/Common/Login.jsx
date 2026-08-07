@@ -392,14 +392,14 @@ const onSubmit = async (data) => {
 
       <footer className="page-footer">
          <div className="footer-content">
-             <div className="footer-brand"><div className="footer-logo"><div className="f-icon-pulse"></div> HRMSHR</div><p className="footer-tagline">Empowering Workforces Globally.</p></div>
+             <div className="footer-brand"><div className="footer-logo"><div className="f-icon-pulse"></div> HRMS</div><p className="footer-tagline">Empowering Workforces Globally.</p></div>
              <div className="footer-contact">
                  <div className="contact-item"><FaPhoneAlt className="c-icon"/> <span>+91 6394181905</span></div>
                  <div className="contact-item"><MdEmail className="c-icon"/> <span>info@HRMS.com</span></div>
                  <div className="contact-item"><FaMapMarkerAlt className="c-icon"/> <span>Lucknow, India</span></div>
              </div>
          </div>
-         <div className="footer-bottom"><span>© 2026 HRMSHR. All rights reserved.</span></div>
+         <div className="footer-bottom"><span>© 2026 HRMS. All rights reserved.</span></div>
       </footer>
     </section>
   );
